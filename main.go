@@ -4,5 +4,7 @@ import "fmt"
 
 func main () {
 	fmt.Println("Hello From Go")
-	Traverse(23)
+	n:= 23
+	Traverse(&n)
+	fmt.Println(n)
 }
