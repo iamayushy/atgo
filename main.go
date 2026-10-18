@@ -7,4 +7,5 @@ func main () {
 	n:= 23
 	Traverse(&n)
 	fmt.Println(n)
+	Pointers()
 }
