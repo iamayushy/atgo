@@ -8,4 +8,5 @@ func main () {
 	Traverse(&n)
 	fmt.Println(n)
 	Pointers()
+	Slices()
 }
