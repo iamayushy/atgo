@@ -11,6 +11,7 @@ func fillZero(s []int) {
 
 // append may allocate a new array, so return the slice
 func addItem(s []int, v int) []int {
+	fmt.Println("Superior")
 	return append(s, v)
 }
 
