@@ -10,4 +10,5 @@ func main () {
 	Pointers()
 	Slices()
 	Interfaces()
+	Errors()
 }
