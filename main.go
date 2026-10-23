@@ -11,4 +11,5 @@ func main () {
 	Slices()
 	Interfaces()
 	Errors()
+	Concurrency()
 }
